@@ -1,11 +1,11 @@
 ---
 title: Wenbo Yan
 role: Master of Data Science
+avatar_filename: null
 bio: My research interests include urban mobility analytics, urban data science
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Mobility Analytics
+  - Urban Data Science
 social:
   - icon: envelope
     icon_pack: fas
