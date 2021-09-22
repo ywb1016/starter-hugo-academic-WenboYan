@@ -37,4 +37,4 @@ email: yanwenbo1016@gmail.com
 superuser: true
 highlight_name: true
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Media/Wenbo_Yan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Media/icon.png" "newtab" >}}resumé{{< /staticref >}}.
