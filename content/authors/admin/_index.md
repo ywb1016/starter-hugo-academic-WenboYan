@@ -29,8 +29,6 @@ education:
   courses:
     - course: Master of  Data Science
       institution: The University of Sydney
-    - course: Graduate Certificate of Data Science
-      institution: The University of Sydney
     - course: BEng in Traffic Engineering
       institution: Shandong Jiaotong University
 email: yanwenbo1016@gmail.com
