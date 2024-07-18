@@ -26,4 +26,4 @@ email: wyan477@connect.hkust-gz.edu.cn
 superuser: true
 highlight_name: true
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Wenbo Yan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/WenboYAN_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
