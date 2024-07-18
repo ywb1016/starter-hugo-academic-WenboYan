@@ -9,17 +9,11 @@ main:
     weight: 10
   
   - name: Research
-    url: '#posts'
+    url: '#featured'
     weight: 20
   - name: Teaching
     url: '#projects'
     weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
   - name: CV
     url: uploads/WenboYAN_CV.pdf
     weight: 40

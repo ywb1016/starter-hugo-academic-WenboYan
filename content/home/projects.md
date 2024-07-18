@@ -4,12 +4,12 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: true
+headless: True
 
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Teaching
 subtitle: ''
 
 content:
