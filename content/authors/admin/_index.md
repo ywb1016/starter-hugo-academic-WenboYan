@@ -1,8 +1,8 @@
 ---
 title: Wenbo Yan
-role: Master of Data Science
+role: PhD Student at HKUST(GZ)
 avatar_filename: null
-bio: My research interests include urban mobility analytics, urban data science
+bio: Hi! I am Wenbo YAN, a first year PhD student in Urban Governance and Design at the Hong Kong University of Science and Technology (Guangzhou). My research intersts are transport economics, environmental economics and urban economics.
 interests:
   - Urban Mobility Analytics
   - Urban Data Science
@@ -10,28 +10,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
-  - name: The University of Sydney
-    url: https://www.sydney.edu.au/
+  - name: Hong Kong University of Science and Technology (Guangzhou)
+    url: https://soch.hkust-gz.edu.cn/academics/ugod/
 education:
   courses:
     - course: Master of  Data Science
       institution: The University of Sydney
+    - course: Master of  Data Science
+      institution: The University of Sydney
     - course: BEng in Traffic Engineering
       institution: Shandong Jiaotong University
-email: yanwenbo1016@gmail.com
+email: wyan477@connect.hkust-gz.edu.cn
 superuser: true
 highlight_name: true
 ---
