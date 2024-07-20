@@ -6,7 +6,10 @@ title: "Impacts of School Reopening on Variations in Local Bus Performance in Sy
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Hudson Yao
+- Linji Chen
+- Hema Rayaprolu
+- Emily Moylan
 
 # Author notes (optional)
 author_notes:
