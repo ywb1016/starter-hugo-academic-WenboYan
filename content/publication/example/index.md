@@ -16,7 +16,7 @@ author_notes:
 - 
 - 
 
-date: “2021-04-21T00:00:00Z"
+date: "2021-04-21T00:00:00Z"
 doi: "10.1177/03611981211006723"
 
 # Schedule page publish date (NOT publication's date).
