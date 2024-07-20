@@ -9,10 +9,10 @@ main:
     weight: 10
   
   - name: Research
-    url: '#featured'
+    url: '#research'
     weight: 20
   - name: Teaching
-    url: '#projects'
+    url: '#teaching'
     weight: 30
   - name: CV
     url: uploads/WenboYAN_CV.pdf
