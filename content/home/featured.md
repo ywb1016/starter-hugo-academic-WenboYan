@@ -2,9 +2,14 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active: True
+
 
 # This file represents a page section.
 headless: True
+
+
+
 
 # Order that this section appears on the page.
 weight: 20
