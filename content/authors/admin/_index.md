@@ -27,4 +27,4 @@ email: wyan477@connect.hkust-gz.edu.cn
 superuser: true
 highlight_name: true
 ---
- Hi! I am Wenbo YAN, a first year PhD student in Urban Governance and Design at the Hong Kong University of Science and Technology (Guangzhou). My research intersts are transport economics, environmental economics and urban economics. <!-- You can download my {{< staticref "uploads/WenboYAN_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
+ Hi! I am Wenbo YAN, a first year PhD student in Urban Governance and Design at the Hong Kong University of Science and Technology (Guangzhou). My research intersts are transport economics, environmental economics and urban economics. test <!-- You can download my {{< staticref "uploads/WenboYAN_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
