@@ -1,38 +1,33 @@
 ---
-title: "An example conference paper"
+title: "Impacts of School Reopening on Variations in Local Bus Performance in Sydney"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Hudson Yao
+- Linji Chen
+- Hema Rayaprolu
+- Emily Moylan
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: [“2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Transportation Research Record*
+publication_short: In *TRR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: During the COVID-19 pandemic, stay-at-home orders in conjunction with working from home, school closures, and event cancellations resulted in a decrease in travel demand. Under normal circumstances, these activities are components of trip chains and utilize a multimodal transport network. The overall performance of the network can be traced through delays in the bus system as buses capture both changes in ridership and fluctuations in mixed traffic conditions. This paper explores the hypothesis that resumption of a single component in trip chains (i.e., school reopening) is sufficient for a measurable change in transport system performance. This study used school reopening in Sydney, Australia as a case study to explore whether school-related trips affected bus system performance directly with higher student patronage or indirectly with heavier road congestion from parental car trips. Both stop dwell times and differences in delays between successive stops were used as bus service indicators. Dwell times reflect the travel demand for buses and delay differences capture local changes in service reliability. We found that increase in ridership had limited impacts on bus punctuality. However, the level of local bus performance worsened after schools reopened, and the effect was more pronounced in commercial areas in the afternoon when schools ended, suggesting secondary trip purposes such as leisure and shopping in addition to school pick-ups. This study revealed the interaction between different trip purposes during the postshutdown period and threw light on changes in travel behavior patterns as travel restrictions were relaxed in pandemic circumstances.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: []
 
