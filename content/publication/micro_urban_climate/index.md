@@ -1,5 +1,5 @@
 ---
-title: “Urban micro climate and shared bike mobility"
+title: Urban micro climate and shared bike mobility
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
